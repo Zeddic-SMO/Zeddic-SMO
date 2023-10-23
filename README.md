@@ -36,3 +36,7 @@ Let's connect and collaborate on exciting projects or discuss all things tech-re
 
 Thanks for stopping by, and let's explore the world of software engineering together.
 
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true)
+
+
