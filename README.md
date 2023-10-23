@@ -40,7 +40,7 @@ Thanks for stopping by, and let's explore the world of software engineering toge
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true)
 
 ## Activity Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zeddic-SMO)
 
 
 
