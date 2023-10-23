@@ -1,16 +1,38 @@
-### Hi there 👋
+# About Me (Zeddic)
 
-<!--
-**Zeddic-SMO/Zeddic-SMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Samuel, also known as Zeddic, a passionate software engineer with a deep interest in Software Architecture. I'm excited to share my journey and projects with you!
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in a variety of technologies and tools, including:
+
+- **Frontend:**
+  - ReactJS
+  - Vite
+  - Tailwind CSS
+  - Bootstrap
+  - Redux
+  - Redux Toolkit
+  - Ant Design
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Nest.js
+  - Prisma
+  - PostgreSQL
+  - Knex.js
+
+I love exploring the latest trends and best practices in software development, and I'm always eager to learn and adapt to new challenges.
+
+## Current Focus
+
+I am currently diving deep into Software Architecture, a field that I find both challenging and incredibly rewarding. It's fascinating to design and implement robust, scalable, and maintainable software systems. If you share this passion or have any questions or ideas to discuss, feel free to reach out!
+
+## Connect With Me
+
+Let's connect and collaborate on exciting projects or discuss all things tech-related. You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and [Twitter](https://twitter.com/yourhandle). Don't hesitate to send me a message or open issues on my repositories – I'd love to hear from you!
+
+Thanks for stopping by, and let's explore the world of software engineering together.
+
