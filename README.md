@@ -34,7 +34,7 @@ I'm currently diving into the fascinating world of Software Architecture, explor
 
 Feel free to reach out if you'd like to connect, collaborate, or have a chat about software engineering and architecture:
 
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Email: [Email Address](mailto:samuel93ortil@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/samuelortil/)
+- Email: [Send me a Mail](mailto:samuel93ortil@gmail.com)
 
 Let's build awesome software together! 🚀
