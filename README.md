@@ -1,19 +1,6 @@
 # Hi there, I'm Samuel (Zeddic) 👋
 
-I'm a software engineer with a passion for Software Architecture. I enjoy working with a variety of technologies to build scalable and efficient software solutions. Below are some of the tools and frameworks I frequently use:
-
-- React.js + Vite
-- Tailwind CSS
-- Bootstrap
-- Redux and Redux Toolkit
-- Ant Design
-- Node.js
-- Express.js
-- MongoDB
-- Nest.js
-- Prisma
-- PostgreSQL
-- Knex
+I'm a software engineer with a passion for Software Architecture. I enjoy working with a variety of technologies to build scalable and efficient software solutions.
 
 ## 🔧 Technologies & Tools
 
