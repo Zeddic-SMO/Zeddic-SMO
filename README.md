@@ -39,6 +39,7 @@ I'm currently diving into the fascinating world of Software Architecture, explor
 ## 📊 GitHub Statistics
 
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
 
 ## 🚀 Recent GitHub Activity
