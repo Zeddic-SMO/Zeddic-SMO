@@ -42,19 +42,12 @@ I'm currently diving into the fascinating world of Software Architecture, explor
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
 
-## 🚀 Recent GitHub Activity
-
-Here are some of my recent GitHub activities:
-
-- [Repository 1](Link to Repository 1)
-- [Repository 2](Link to Repository 2)
-- [Repository 3](Link to Repository 3)
 
 ## 📫 Get in Touch
 
 Feel free to reach out if you'd like to connect, collaborate, or have a chat about software engineering and architecture:
 
 - LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Email: [Your Email Address](mailto:samuel93ortil@gmail.com)
+- Email: [Email Address](mailto:samuel93ortil@gmail.com)
 
 Let's build awesome software together! 🚀
