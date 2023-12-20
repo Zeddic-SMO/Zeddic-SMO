@@ -1,11 +1,21 @@
 # Hi there, I'm Samuel (Zeddic) 👋
 
-I'm a software engineer with a passion for Software Architecture. I enjoy working with a variety of technologies to build scalable and efficient software solutions.
+I'm a seasoned software engineer with a strong passion for software architecture. My expertise lies in crafting scalable and efficient software solutions by leveraging a diverse range of technologies. Over the course of my career, I've honed my skills in designing robust and maintainable systems that meet the evolving needs of businesses.
+
+My proficiency extends across the entire software development lifecycle, from conceptualization to implementation and maintenance. I thrive in dynamic environments, embracing challenges that come with architecting solutions that stand the test of time.
+
+Outside of work, you'll find me exploring new technologies, contributing to open-source projects, and engaging in the broader tech community. I'm passionate about continuous improvement, both for myself and the teams I work with. Let's build the future of software together!
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I'm proficient with:
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -18,16 +28,18 @@ Here are some of the technologies and tools I'm proficient with:
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-3E863D?style=for-the-badge&logo=knex.js&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
 
 ## 🌱 Currently Exploring
 
-I'm currently diving into the fascinating world of Software Architecture, exploring best practices and design patterns to build robust and scalable software systems.
+I'm currently diving into the fascinating world of Clouding, Software Architecture, exploring best practices and design patterns to build robust and scalable software systems.
 
 ## 📊 GitHub Statistics
 
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true&theme=dark)](https://github.com/YourGitHubUsername)
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true&theme=dark)](https://github.com/Zeddic-SMO)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)](https://github.com/YourGitHubUsername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)](https://github.com/Zeddic-SMO)
 
 
 ## 📫 Get in Touch
