@@ -29,6 +29,7 @@ Here are some of the technologies and tools I'm proficient with:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-3E863D?style=for-the-badge&logo=knex.js&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
 ## 🌱 Currently Exploring
