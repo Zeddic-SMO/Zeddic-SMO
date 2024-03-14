@@ -40,7 +40,7 @@ I'm currently diving into the fascinating world of Clouding, Software Architectu
 
 [![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true&theme=dark)](https://github.com/Zeddic-SMO)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)](https://github.com/Zeddic-SMO)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)]
 
 
 ## 📫 Get in Touch
