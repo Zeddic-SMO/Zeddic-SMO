@@ -34,13 +34,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 ## 🌱 Currently Exploring
 
-I'm currently diving into the fascinating world of Clouding, Software Architecture, exploring best practices and design patterns to build robust and scalable software systems.
-
-## 📊 GitHub Stats
-
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Zeddic-SMO&show_icons=true&theme=dark)](https://github.com/Zeddic-SMO)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddic-SMO&layout=compact&theme=dark)]
+I'm currently diving into the fascinating world of Clouding Computing, Software Architecture, exploring best practices and design patterns to build robust and scalable software systems.
 
 
 ## 📫 Get in Touch
